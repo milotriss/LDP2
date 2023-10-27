@@ -1,0 +1,41 @@
+
+footer {
+  color: #78847d;
+  font-family: Rubik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px; /* 212.5% */
+}
+ul li {
+  list-style-type: none;
+}
+.footer-social * {
+  padding-right: 24px;
+}
+footer {
+  padding: 35px 135px;
+}
+.footer-list-content p {
+  width: 300px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-menu li:nth-child(1) {
+  color: #253d32;
+  font-family: Rubik;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34px; /* 141.667% */
+  padding-bottom: 15px;
+}
+.footer-list-menu {
+  padding-left: -35px;
+}
+.footer-coppyright {
+  text-align: center;
+  padding: 25px 0px 65px 0px;
+}
